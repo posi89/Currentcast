@@ -1,7 +1,7 @@
 # Currentcast
  An OpenSource podcase player for MacOS
 
-# ![#Currentcast-header]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kodeco.com%2F23575428-gdg-open-source-pottery-and-bookbinding-nishant-srivastava-talks-about-these-cool-things-podcast-s11-e12&psig=AOvVaw39n8ezrYNF0O-TwI4Cxp0S&ust=1672738685092000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJib2bTLqPwCFQAAAAAdAAAAABAI
+# ![#Currentcast-header]https://w7.pngwing.com/pngs/456/202/png-transparent-podcast-radio-others-logo-radio-station-edit-icon.png
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![Platform](http://img.shields.io/badge/platform-macOS-black.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](https://img.shields.io/badge/swift-4.2-orange.svg?style=flat)](https://swift.org/blog/swift-4-2-released/)
